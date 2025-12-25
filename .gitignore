@@ -1,3 +1,6 @@
 __pycache__
 chatbot.db
 .env
+test.ipynb
+chatbot.db-shm
+chatbot.db-wal
